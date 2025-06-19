@@ -50,7 +50,7 @@ python Cursor.py
 ```
 
 🎥 Demo Video
-📺 [Watch Demo Video](video/demo)
+📺 [Watch Demo Video](video/demo.mov)
 
 # ⚙️ Features
 
